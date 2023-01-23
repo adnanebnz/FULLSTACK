@@ -9,7 +9,7 @@
 
 - Browsing products based on thir pice or category.
 - Adding products to the cart
-- Paying for the products using stripe.
+- Products payment using stripe.
 
 ## Notes
  - All the assets come from unsplash, means they free images with no copyright.
@@ -18,5 +18,3 @@
 ## License
 
 MIT
-
-**Free Software, Hell Yeah!**
