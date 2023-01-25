@@ -9,7 +9,7 @@ import Shipping from "./Shipping";
 import { loadStripe } from "@stripe/stripe-js";
 
 const stripePromise = loadStripe(
-  "PUT YOUR STRAPI KEY HERE"
+  "PUT YOUR STRAPE KEY HERE"
 );
 
 const Checkout = () => {
