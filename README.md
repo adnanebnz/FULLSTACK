@@ -1,7 +1,6 @@
 # FullStack React redux and Strapi app
 
-![React redux](https://res.cloudinary.com/dxobgdfyq/image/upload/v1674482066/pngaaa.com-2507946_eoc4c6.png)
-![Strapi](https://res.cloudinary.com/dxobgdfyq/image/upload/v1674482207/631205bfb661e15cdf54dedd_dvlhts.png)
+![React redux Strapi](https://res.cloudinary.com/dxobgdfyq/image/upload/w_700/v1675263081/project2_n6xarv.png)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
